@@ -15,6 +15,6 @@ Ingresa a la plataforma y se parte de nuestra comunidad
 
 Si encuentras algún error en el código o la forma de optimizarlo, puedes informar al equipo de codeando en el siguiente enlace para realizar las correcciones correspondientes.-
 
-<a href="https://github.com/codeandomx/presentaciones/issues">https://github.com/codeandomx/presentaciones/issues</a>
+[Crear Issue](https://github.com/codeandomx/presentaciones/issues)
 
 Muchas gracias!!!
