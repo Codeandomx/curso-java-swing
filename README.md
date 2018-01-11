@@ -7,7 +7,7 @@ Aprende a crear aplicaciones de escritorio con Java Swing de forma rapida y senc
 
 ## Ingresa a la plataforma
 
-Ingresa a la plataforma y se parte de nuestra comunidad
+Ingresa a la plataforma y se parte de nuestra comunidad (la plataforma se encuentra en construcción).
 
 [Plataforma Codeando](http://codeando.org)
 
