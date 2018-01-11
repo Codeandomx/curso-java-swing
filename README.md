@@ -1,7 +1,7 @@
 Curso de Java Swing - Codeando
 ===
 
-Aprende a crear aplicaciones de escritorio con Java Swing de forma rapida y sencilla.
+Aprende a crear aplicaciones de escritorio con Java Swing de forma rapida y sencilla, la GUI más utilizada para Java.
 
 # Contenido
 
