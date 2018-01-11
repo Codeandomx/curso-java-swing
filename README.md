@@ -13,7 +13,7 @@ Ingresa a la plataforma y se parte de nuestra comunidad
 
 ## Errores y aclaraciones sobre el código
 
-Si encuentras algún error en el código o la forma de optimizarlo, puedes informar al equipo de codeando en el siguiente enlace para realizar las correcciones correspondientes.-
+Si encuentras algún error en el código o la forma de optimizarlo, puedes informar al equipo de Codeando en el siguiente enlace (creando una issue) para realizar las correcciones correspondientes.-
 
 [Crear Issue](https://github.com/codeandomx/presentaciones/issues)
 
